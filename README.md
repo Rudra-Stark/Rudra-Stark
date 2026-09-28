@@ -1,172 +1,121 @@
 <div align="center">
 
-<h1>Hey, I'm Rudra 👋</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rudra%20Pratap%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header"/>
 
-<h3>B.Tech CSE (AI/ML) Student • AI/ML • Backend • Robotics • IoT</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=B.Tech+CSE+(AI%2FML)+Student;AI+%2F+ML+%7C+Backend+%7C+Robotics+%7C+IoT;Building+things+to+understand+how+they+work;Python+%7C+FastAPI+%7C+ESP32+%7C+LLMs" alt="Typing SVG"/>
 
-<p>
-  <a href="https://github.com/Rudra-Stark">
-    <img src="https://img.shields.io/badge/GitHub-Rudra--Stark-181717?style=flat&logo=github" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/rudra-pratap-singh-518686326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Rudra%20Pratap%20Singh-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+<br><br>
+
+<a href="https://www.linkedin.com/in/rudra-pratap-singh-518686326/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Rudra-Stark">
+  <img src="https://img.shields.io/badge/GitHub-Rudra--Stark-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
-<hr>
+<br>
 
-<h2>👨‍💻 About Me</h2>
+## 👨‍💻 About Me
 
-<p>
-I'm a <b>B.Tech CSE (AI/ML) student</b> interested in
-<b>Artificial Intelligence, Machine Learning, Backend Development, Robotics, and IoT.</b>
-</p>
+B.Tech CSE (AI/ML) student interested in **AI, Machine Learning, Backend Development, Robotics and IoT**.
 
-<p>
-I like learning by building things — sometimes that means writing Python and APIs,
-and sometimes it means connecting an ESP32 to a bunch of sensors and trying to make
-it do something useful.
-</p>
+I learn by building. Sometimes that's Python and APIs, sometimes it's wiring an ESP32 to a pile of sensors and making it do something useful. I like understanding what happens behind a library or framework instead of just using it.
 
-<hr>
+> **Build → Break → Understand → Build again.**
 
-<h2>🛠️ What I Work With</h2>
+<br>
 
-<h3>💻 Programming</h3>
+## 🛠️ Tech Stack
 
-<ul>
-  <li>Python</li>
-  <li>C / C++</li>
-  <li>Java</li>
-  <li>JavaScript</li>
-</ul>
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend & Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,django,flask,html,css" alt="Backend and Web"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV"/><br>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" alt="Ollama"/>
+      <img src="https://img.shields.io/badge/Qwen-6E56CF?style=flat-square" alt="Qwen"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Robotics & IoT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+      <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython"/>
+      <img src="https://img.shields.io/badge/I2S-Microphone-444444?style=flat-square" alt="I2S"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,jupyter" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-<h3>🧠 AI / ML</h3>
+<br>
 
-<ul>
-  <li>Machine Learning</li>
-  <li>OpenCV</li>
-  <li>NumPy</li>
-  <li>Pandas</li>
-  <li>Matplotlib</li>
-  <li>LLMs</li>
-  <li>Ollama & Qwen</li>
-</ul>
+## 🚀 Things I've Built
 
-<h3>🌐 Backend / Web</h3>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 <a href="https://github.com/Rudra-Stark/Ai-commerce-agent-">AI Commerce Agent</a></b><br><br>
+      LLM-powered commerce assistant that uses tools to search products and handle user requests.<br><br>
+      <sub><b>Python · FastAPI · Ollama · Qwen</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>🧠 <a href="https://github.com/Rudra-Stark/Machine-Learning-">Machine Learning Projects</a></b><br><br>
+      Experiments and implementations while learning ML concepts, working with data and building models.<br><br>
+      <sub><b>Python · NumPy · Pandas</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚡ Robotics & IoT</b><br><br>
+      Arduino and ESP32 projects involving sensors, automation and robotics.<br><br>
+      <sub><b>ESP32 · Arduino · IR · LDR · Ultrasonic · I2S</b></sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>👁️ Computer Vision & Automation</b><br><br>
+      Computer vision, object detection, robotics and automation projects.<br><br>
+      <sub><b>Python · OpenCV · ESP32 · Arduino</b></sub>
+    </td>
+  </tr>
+</table>
 
-<ul>
-  <li>FastAPI</li>
-  <li>Django</li>
-  <li>Flask</li>
-  <li>HTML / CSS / JavaScript</li>
-</ul>
+<br>
 
-<h3>🤖 Robotics & IoT</h3>
+## 🌱 Currently Learning
 
-<ul>
-  <li>ESP32</li>
-  <li>Arduino</li>
-  <li>MicroPython</li>
-  <li>IR, LDR & Ultrasonic Sensors</li>
-  <li>I2S Microphones</li>
-  <li>Automation & Robotics</li>
-</ul>
+- 🧠 **Machine Learning**: from fundamentals to practical applications
+- 🤖 **LLMs & AI Agents**: local LLMs and tool calling
+- 🌐 **Backend Development**: building APIs and understanding backend systems
+- ⚙️ **System Design**: how larger software systems are designed and connected
+- 🔌 **Robotics**: combining software, electronics and AI with real hardware
+- 💻 **Software Engineering**: code quality, Git workflows and good practices
 
-<h3>🔧 Tools</h3>
-
-<ul>
-  <li>Git & GitHub</li>
-  <li>Linux</li>
-  <li>VS Code</li>
-  <li>Jupyter</li>
-  <li>Google Colab</li>
-</ul>
-
-<hr>
-
-<h2>🚀 Things I've Built</h2>
-
-<h3>🤖 AI Commerce Agent</h3>
-
-<p>
-An AI-powered commerce assistant that uses an LLM and tools to search for products
-and handle user requests.
-</p>
-
-<p>
-<b>Tech:</b> Python · FastAPI · Ollama · Qwen
-</p>
-
-<h3>🧠 Machine Learning Projects</h3>
-
-<p>
-Experiments and implementations while learning machine learning concepts,
-working with data and building models.
-</p>
-
-<h3>⚡ Robotics & IoT Projects</h3>
-
-<p>
-I've built projects using Arduino and ESP32, including line-following robots,
-object detection/avoidance, home automation and sensor-based systems.
-</p>
-
-<p>
-I'm also experimenting with <b>voice-controlled automation and speech recognition</b>
-using I2S microphones and edge hardware.
-</p>
-
-<hr>
-
-<h2>🌱 Currently Learning</h2>
-
-<ul>
-  <li>Machine Learning</li>
-  <li>LLMs & AI Agents</li>
-  <li>Backend Development</li>
-  <li>System Design</li>
-  <li>Robotics</li>
-  <li>Better Software Engineering Practices</li>
-</ul>
-
-<hr>
-
-<h2>💻 My Approach</h2>
-
-<p>
-I don't like learning technology just by reading about it.
-</p>
-
-<p>
-I prefer to build something, get stuck, figure out why it doesn't work,
-fix it, and understand what actually happened.
-</p>
-
-<p>
-Most of the projects here come from that process.
-</p>
-
-<hr>
-
-<h2>🔗 Connect With Me</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/rudra-pratap-singh-518686326/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn">
-  </a>
-
-  <a href="https://github.com/Rudra-Stark">
-    <img src="https://img.shields.io/badge/GitHub-Rudra--Stark-181717?style=flat&logo=github" alt="GitHub">
-  </a>
-</p>
-
-<hr>
+<br>
 
 <div align="center">
 
-<h3>Build → Break → Understand → Build again.</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
